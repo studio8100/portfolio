@@ -229,9 +229,10 @@ section#home h1 {
 section#home p {
   padding: 1rem 2rem;
   border-radius: 1rem;
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   text-transform: none;
   background-color:rgba(38, 87, 95, 0.8);
+  max-width: 960px;
 }
 
 section#home a {
